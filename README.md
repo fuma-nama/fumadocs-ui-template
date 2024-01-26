@@ -1,0 +1,1 @@
+# fumadocs-ui-template
