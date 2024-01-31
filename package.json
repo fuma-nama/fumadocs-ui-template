@@ -9,11 +9,11 @@
   },
   "dependencies": {
     "next": "14.0.4",
-    "fumadocs-ui": "8.1.0",
-    "fumadocs-core": "8.1.0",
+    "fumadocs-ui": "8.1.1",
+    "fumadocs-core": "8.1.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "fumadocs-mdx": "8.0.1"
+    "fumadocs-mdx": "8.0.2"
   },
   "devDependencies": {
     "@types/react": "18.2.0",
