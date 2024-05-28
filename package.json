@@ -9,14 +9,14 @@
   },
   "dependencies": {
     "next": "^14.2.3",
-    "fumadocs-ui": "^11.2.1",
-    "fumadocs-core": "^11.2.1",
+    "fumadocs-ui": "^11.2.2",
+    "fumadocs-core": "^11.2.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "fumadocs-mdx": "^8.2.23"
+    "fumadocs-mdx": "^8.2.24"
   },
   "devDependencies": {
-    "@types/react": "^18.3.2",
+    "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "typescript": "^5.4.5",
     "@types/mdx": "^2.0.13"
