@@ -9,16 +9,16 @@
     "postinstall": "fumadocs-mdx"
   },
   "dependencies": {
-    "next": "15.1.1",
-    "fumadocs-ui": "14.6.2",
-    "fumadocs-core": "14.6.2",
+    "next": "15.1.2",
+    "fumadocs-ui": "14.6.3",
+    "fumadocs-core": "14.6.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "fumadocs-mdx": "11.1.2"
+    "fumadocs-mdx": "11.2.0"
   },
   "devDependencies": {
     "@types/node": "22.10.2",
-    "@types/react": "^19.0.1",
+    "@types/react": "^19.0.2",
     "@types/react-dom": "^19.0.2",
     "typescript": "^5.7.2",
     "@types/mdx": "^2.0.13"
