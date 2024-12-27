@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "next": "15.1.2",
-    "fumadocs-ui": "14.6.4",
-    "fumadocs-core": "14.6.4",
+    "fumadocs-ui": "14.6.5",
+    "fumadocs-core": "14.6.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "fumadocs-mdx": "11.2.1"
