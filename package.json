@@ -12,9 +12,9 @@
     "next": "15.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "fumadocs-ui": "15.0.0",
-    "fumadocs-core": "15.0.0",
-    "fumadocs-mdx": "11.3.2"
+    "fumadocs-ui": "15.0.1",
+    "fumadocs-core": "15.0.1",
+    "fumadocs-mdx": "11.4.0"
   },
   "devDependencies": {
     "@types/node": "22.13.0",
