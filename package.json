@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "dev": "next dev",
+    "dev": "next dev --turbo",
     "start": "next start",
     "postinstall": "fumadocs-mdx"
   },
@@ -12,15 +12,15 @@
     "next": "15.2.4",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "fumadocs-ui": "15.2.4",
-    "fumadocs-core": "15.2.4",
+    "fumadocs-ui": "15.2.5",
+    "fumadocs-core": "15.2.5",
     "fumadocs-mdx": "11.5.8"
   },
   "devDependencies": {
     "@types/node": "22.14.0",
     "@types/react": "^19.1.0",
     "@types/react-dom": "^19.1.1",
-    "typescript": "^5.8.2",
+    "typescript": "^5.8.3",
     "@types/mdx": "^2.0.13"
   }
 }
