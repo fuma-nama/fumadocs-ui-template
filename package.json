@@ -12,12 +12,12 @@
     "next": "15.3.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "fumadocs-ui": "15.3.3",
-    "fumadocs-core": "15.3.3",
-    "fumadocs-mdx": "11.6.4"
+    "fumadocs-ui": "15.3.4",
+    "fumadocs-core": "15.3.4",
+    "fumadocs-mdx": "11.6.5"
   },
   "devDependencies": {
-    "@types/node": "22.15.18",
+    "@types/node": "22.15.19",
     "@types/react": "^19.1.4",
     "@types/react-dom": "^19.1.5",
     "typescript": "^5.8.3",
