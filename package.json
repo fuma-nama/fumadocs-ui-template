@@ -13,8 +13,8 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "lucide-react": "^0.546.0",
-    "fumadocs-ui": "16.0.0",
-    "fumadocs-core": "16.0.0",
+    "fumadocs-ui": "16.0.1",
+    "fumadocs-core": "16.0.1",
     "fumadocs-mdx": "13.0.0"
   },
   "devDependencies": {
